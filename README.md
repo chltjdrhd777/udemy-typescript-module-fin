@@ -1,2 +1,2 @@
 # udemy-typescript-module-fin
-ok
+using the concept of "import" and "export"
